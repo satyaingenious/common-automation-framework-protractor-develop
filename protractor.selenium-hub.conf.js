@@ -15,5 +15,5 @@ exports.config = {
         reportersSetup.configureAllReporters();
     },
     onComplete: reportersSetup.testRailSetupOnComplete
-    //hello this sample github code
+
 };
